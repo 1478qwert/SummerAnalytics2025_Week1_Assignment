@@ -44,7 +44,7 @@ This assignment covered several key data analysis tasks:
 ## How to Run the Notebook
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/SummerAnalytics2025_Week1_Assignment.git](https://github.com/YourUsername/SummerAnalytics2025_Week1_Assignment.git)
+    git clone [https://github.com/1478qwert/SummerAnalytics2025_Week1_Assignment.git](https://github.com/1478qwert/SummerAnalytics2025_Week1_Assignment.git)
     ```
 2.  **Navigate to the directory:**
     ```bash
